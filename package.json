@@ -1,0 +1,15 @@
+{
+  "name": "mileage",
+  "version": "1.0.0",
+  "description": "To study and apply js concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --bail --recursive  test "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
