@@ -15,7 +15,7 @@ const a = () => {
 
 //describe('MyFunction', function() {
     describe('#checkReturnedValue', function() {
-        it('should return string', function() {
+        it('should be equals to 26', function() {
             let returnedValue = carMileage.fuelCostCalculator(14,22) ;
             returnedValue.should.equal(26);
         });
